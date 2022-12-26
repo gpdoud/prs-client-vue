@@ -1,0 +1,6 @@
+* {
+  margin: 0;
+}
+input, select {
+  border-radius: 7px;
+}
